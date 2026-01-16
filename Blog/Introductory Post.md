@@ -1,3 +1,6 @@
+                                                                                                                    Introductory Post
+                                                                                                                         1/16/26
+
 Data science has become more and more relevant in our lives; it is no longer just a technical field focused on numbers, algorithms, and coding. It is increasingly a social discipline, one that interacts with people, communities, and real-world systems. Learning data science in a social context matters because data does not exist in a vacuum. It is constantly shaped by people and social factors. Behind all datasets are human behaviors, inequalities, and real consequences that deserve careful consideration.
 
 Modeling social topics and people is important because data-driven decisions often shape policies and opportunities that affect millions of people today. From healthcare to finance to recommendation systems, models influence how large amounts of resources are distributed and how individuals are treated. If we ignore social context, we risk reinforcing existing biases or oversimplifying complex realities. Understanding the “why” behind the data helps us determine whether models are not only accurate but also fair.
